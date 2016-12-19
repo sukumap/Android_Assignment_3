@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/personal/coursera/android/part4_communication/homework1/POSA-15/assignments/assignment11/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">DownloadImageViewer</string>
+    <string name="defaultURL">http://www.dre.vanderbilt.edu/~schmidt/robot.png</string>
+    <string name="download_image">Download Image</string>
+    <string name="download_image_activity">DownLoadImageActivity</string>
+    <string name="enter_url">Enter URL</string>
+</resources>
